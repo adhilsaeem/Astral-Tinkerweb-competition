@@ -1,0 +1,38 @@
+.explore{
+    color: white;
+    font-weight: bolder;
+    font-size: 17vw;
+}
+.unleash{
+    color: white;
+    font-weight: bolder;
+    font-size: 17vw;
+
+}
+.your{
+    color: white;
+    font-weight: bolder;
+    font-size: 12vw;
+
+}
+.thinking{
+    color: white;
+    font-weight: bolder;
+    font-size: 10vw;
+}
+.message{
+    height:20vh ;
+    text-align:start;
+}
+.footer-text{
+    font-size: 5vh;
+    color: white;
+    text-align: center;
+
+}
+.footer-t{
+    font-size: 2vh;
+    color: white;
+    text-align: center;
+    padding-top: 10vh;
+}
